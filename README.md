@@ -1,8 +1,8 @@
 ﻿# Rafael Jerónimo Aragón
 
-I am a physics graduate with an MSc in Specialized Economic Analysis, focused on Macroeconomic Policy and Financial Markets, from the Barcelona School of Economics.
+I am a physics graduate with an MSc in Specialized Economic Analysis (Macroeconomic Policy and Financial Markets Program) from the Barcelona School of Economics.
 
-My projects cover quantitative research in macroeconomics, systematic strategies, derivatives, energy and computational modelling.
+My projects cover quantitative research in macroeconomics, systematic research, derivatives, energy and computational modelling.
 
 Based in Spain · EU citizen
 
@@ -10,7 +10,7 @@ Based in Spain · EU citizen
 
 ### [Options Analytics Workstation](https://github.com/RafaJeroA/options-analytics-workstation)
 
-Local options application with Black-Scholes pricing and Greeks, implied-volatility solving, exact multi-leg payoff analysis, scenario grids, synthetic market data and experimental read-only IBKR support.
+Options application with Black-Scholes pricing and Greeks, implied-volatility solving, exact multi-leg payoff analysis, scenario grids, synthetic market data and experimental read-only IBKR support.
 
 ### [News Sentiment Trading Research](https://github.com/RafaJeroA/news-sentiment-trading-algo)
 
